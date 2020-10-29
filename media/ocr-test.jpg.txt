@@ -1,0 +1,59 @@
+Database Netflix like Application:
+
+Let Database Name be Netflix and following tables in databas:
+
+ 
+
+1. Customer Table description
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Field Type Length | Description | Primary Key or
+Foreign Key
+CustomerID | Character 9 Uniquely | Primary Key
+with fixed identifies a
+length customer
+| CustomerName Character [20 | Shows a
+with fixed customer name
+length
+| CustomerPhoneNumber | Number jas ‘Shows a
+customer phone
+number
+‘CustomerAddress | Character 30 ‘Shows a
+with fixed customer
+length address
+| CustomerEmail ‘Character 130 | Shows a
+with fixed customer email
+length
+| CustomerDOB Date ‘Shows a
+customer
+| birthday
+Example of Stream Table: -
+CustomerID CustomerName CustomerPhoneNumber | CustomerAddress CustomerEmail CustomDOB
+001, Puffy 9678656856 shiv Colony, india luffy@one.com 04/12/1999
+002 20r0 7809856977 Rajiv Nagar, india z0ro@piece.com 27/06/1999
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
